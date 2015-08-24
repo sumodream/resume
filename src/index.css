@@ -53,7 +53,7 @@ h6 {
   font-size: 14px;
 }
 .container {
-  margin-top: 10px;
+  margin-top: 5px;
   background-color: white;
   box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.2);
 }
@@ -111,7 +111,7 @@ dl {
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1030px;
+    width: 980px;
   }
 }
 .column {
@@ -293,7 +293,7 @@ header {
 }
 .header-qrcode {
   float: left;
-  margin: 5px;
+  margin: 2px;
 }
 
 
@@ -305,18 +305,19 @@ header {
 address {
   overflow-y: hidden;
   zoom: 1;
+  margin-bottom: 8px;
 
 }
 header .contact {
   float: left;
-  margin: 5px;
+  margin: 1px;
   padding-left: 0;
   margin-left: 35px;
 }
 @media (max-width: 767px) {
   header .contact {
     float: none;
-    margin-top: 10px;
+    margin-top: 2px;
     padding-left: 5px;
   }
 }
@@ -423,11 +424,12 @@ footer {
   margin: 40px 6px;
 }
 section {
-  margin-top: 14px;
+  margin-top: 5px;
 }
 .sec-title-wrapper {
   overflow-y: hidden;
   zoom: 1;
+  margin-top: 27px;
 }
 .sec-title {
   float: left;
@@ -507,8 +509,8 @@ section {
   padding-bottom: 14px;
 }
 .timeline-title {
-  margin: 0 0 0 -26px;
-  padding: 3px 10px 3px 26px;
+  margin:-6px 0px -7px -19px;
+  padding: 0px 13px 3px 23px;
   color: white;
   background-color: #333333;
   border-radius: 6px;
@@ -876,7 +878,7 @@ aside a:active {
 }
 .img_content{
   float: right;
-  margin-right: 90px;
+  margin-right: 49px;
   margin-top: -110px;
 }
 
